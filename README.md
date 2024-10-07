@@ -1,6 +1,6 @@
 # 💥 CrazyKickAssGuy 💥
 
-**Hello there!** 👋 I'm Michael – a tech enthusiast with a passion for learning and creating. I love diving deep into **Linux**, **Bash scripting**, and open-source technologies. When I'm not coding, I'm exploring new tools and contributing to the open-source community.
+**Hello there!** 👋 I'm CrazyKickAssGuy – a tech enthusiast with a passion for learning and creating. I love diving deep into **Linux**, **Bash scripting**, and open-source technologies. When I'm not coding, I'm exploring new tools and contributing to the open-source community.
 
 ## 🚀 What I'm up to
 - 💻 Currently learning: **Ubuntu Server & Linux Administration**
@@ -41,6 +41,10 @@ If you want to discuss **Linux**, **Bash**, or any cool open-source project, fee
 ---
 
 ![CrazyKickAssGuy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrazyKickAssGuy&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark)
+
+<!-- Snake Animation -->
+### 🐍 Watch my contribution graph get eaten by a snake!
+![snake gif](https://github.com/CrazyKickAssGuy/CrazyKickAssGuy/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Optional: Add a quote or message -->
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
