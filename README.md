@@ -1,6 +1,6 @@
 # 💥 CrazyKickAssGuy 💥
 
-**Hello there!** 👋 I'm CrazyKickAssGuy – a tech enthusiast with a passion for learning and creating. I love diving deep into **Linux**, **Bash scripting**, and open-source technologies. When I'm not coding, I'm exploring new tools and contributing to the open-source community.
+**Hello there!** 👋 I'm Michael – a tech enthusiast with a passion for learning and creating. I love diving deep into **Linux**, **Bash scripting**, and open-source technologies. When I'm not coding, I'm exploring new tools and contributing to the open-source community.
 
 ## 🚀 What I'm up to
 - 💻 Currently learning: **Ubuntu Server & Linux Administration**
