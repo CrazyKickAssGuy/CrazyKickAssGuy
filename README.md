@@ -11,6 +11,8 @@
 - 📚 Enrolled in a **DevOps Engineer course** to enhance my automation and cloud skills
 - 🔧 Practicing and sharpening my **Bash scripting** skills
 - 💡 Working on exciting open-source projects
+- 🎮 Developer on a **RedM/FiveM** server
+- 🌍 Owner of **Middle East Roleplay** server on RedM
 
 ## 🛠️ Tech Stack
 - **Languages**:
