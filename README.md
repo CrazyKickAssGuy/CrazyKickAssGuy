@@ -13,7 +13,7 @@
 - 💡 Working on exciting open-source projects
 - 🎮 Developer on a **RedM/FiveM** server
 - 🌍 Founder and owner of **Middle East Roleplay** server on RedM
-- 🛠️ Founder and owner of **lordserver.com**, a hosting company specializing in game servers
+- 🛡️ Founder and owner of **[lordserver.com](https://lordserver.com)**, a hosting company specializing in game servers
 
 ## 🛠️ Tech Stack
 - **Languages**:
