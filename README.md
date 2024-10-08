@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CrazyKickAssGuy/CrazyKickAssGuy/refs/heads/main/22.png" alt="CrazyKickAssGuy Banner" />
+</p>
+
 # 💥 CrazyKickAssGuy 💥
 
 **Hello there!** 👋 I'm Michael – a tech enthusiast with a passion for learning and creating. I love diving deep into **Linux**, **Bash scripting**, and open-source technologies. When I'm not coding, I'm exploring new tools and contributing to the open-source community.
