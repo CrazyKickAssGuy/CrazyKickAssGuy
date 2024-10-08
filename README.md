@@ -12,7 +12,8 @@
 - 🔧 Practicing and sharpening my **Bash scripting** skills
 - 💡 Working on exciting open-source projects
 - 🎮 Developer on a **RedM/FiveM** server
-- 🌍 Owner of **Middle East Roleplay** server on RedM
+- 🌍 Founder and owner of **Middle East Roleplay** server on RedM
+- 🛠️ Founder and owner of **lordserver.com**, a hosting company specializing in game servers
 
 ## 🛠️ Tech Stack
 - **Languages**:
